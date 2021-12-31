@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/12/31 07:07:28.518,=F:\~Coding~\#Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/31 07:07:28.691,=F:\~Coding~\#Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/31 07:08:19.499,F:\~Coding~\#Projects\Add List App\Unit1.fmx=F:\~Coding~\#Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/12/31 07:08:19.499,F:\~Coding~\#Projects\Add List App\Unit1.h=F:\~Coding~\#Projects\Unit1.h</Transaction>
+    <Transaction>2021/12/31 07:08:19.499,F:\~Coding~\#Projects\Add List App\Unit1.cpp=F:\~Coding~\#Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/31 07:08:30.233,F:\~Coding~\#Projects\Add List App\Project1PCH1.h=F:\~Coding~\#Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/31 07:08:34.577,F:\~Coding~\#Projects\Add List App\Project1.cbproj=F:\~Coding~\#Projects\Project1.cbproj</Transaction>
+  </Transactions>
+  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
